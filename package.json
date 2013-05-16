@@ -1,0 +1,40 @@
+{
+  "name": "random-string",
+  "description": "Simple Module for generating Random Strings",
+  "version": "0.1.0",
+  "homepage": "https://github.com/valiton/node-random-string",
+  "author": {
+    "name": "Valiton GmbH, Bastian 'hereandnow' Behrens",
+    "email": "bastian.behrens@valiton.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/valiton/node-random-string.git"
+  },
+  "bugs": {
+    "url": "https://github.com/valiton/node-random-string/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/valiton/node-random-string/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/random-string",
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "scripts": {
+    "test": "grunt nodeunit"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.4.3",
+    "grunt-contrib-nodeunit": "~0.1.2",
+    "grunt-contrib-watch": "~0.4.3",
+    "grunt": "~0.4.1"
+  },
+  "keywords": [
+    "random",
+    "string"
+  ]
+}
