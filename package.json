@@ -1,7 +1,7 @@
 {
   "name": "random-string",
   "description": "Simple Module for generating Random Strings",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/valiton/node-random-string",
   "author": {
     "name": "Valiton GmbH, Bastian 'hereandnow' Behrens",

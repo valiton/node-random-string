@@ -56,6 +56,8 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 
+- 0.1.1 do not contain special cars per default
+
 - 0.1.0 Initial Release
 
 
