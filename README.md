@@ -19,6 +19,8 @@ You can call the randomString-Method with additional options for specifing how l
 var x = randomString({length: 20});
 ```
 
+![random-string](https://api.travis-ci.org/ogt/node-random-string.png "random-string")
+
 ### options
 
 #### options.length
