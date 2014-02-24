@@ -2,6 +2,8 @@
 
 Simple Module for generating Random Strings
 
+![random-string](https://api.travis-ci.org/valiton/node-random-string.png "random-string")
+
 ## Getting Started
 Install the module with: `npm install random-string`
 
@@ -18,8 +20,6 @@ You can call the randomString-Method with additional options for specifing how l
 // e.g. you want a string with a length of 20
 var x = randomString({length: 20});
 ```
-
-![random-string](https://api.travis-ci.org/valiton/node-random-string.png "random-string")
 
 ### options
 
