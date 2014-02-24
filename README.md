@@ -67,6 +67,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 - Bastian "hereandnow" Behrens
 
+
 ## License
 Copyright (c) 2013 Valiton GmbH
 Licensed under the MIT license.
