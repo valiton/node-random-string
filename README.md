@@ -37,7 +37,12 @@ boolean - should your resulting string contain letters (from a-z, lower and uppe
 
 #### options.special
 
-boolean - should your resulting string contain any of these special characters (!$%^&*()_+|~-=`{}[]:;<>?,./) (DEFAULT: false)
+boolean - should your resulting string contain any of these special characters (!$%^&*()_+|~-=\`{}[]:;<>?,./) (DEFAULT: false)
+
+#### options.exclude
+
+array - removes characters from resulting string
+*Note: Lowercase letters will not remove uppercase letters*
 
 
 ## Examples
@@ -68,6 +73,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 ## Contributors
 
 - Bastian "hereandnow" Behrens
+- Baran "bjskistad" Skistad
 
 
 ## License
