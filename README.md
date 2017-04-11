@@ -53,7 +53,8 @@ var x = randomString({
   length: 8,
   numeric: true,
   letters: true,
-  special: false
+  special: false,
+  exclude: ['a', 'b', '1']
 });
 ```
 
