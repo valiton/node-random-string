@@ -64,6 +64,8 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 
+- 0.2.0 introduce `exclude`-option
+
 - 0.1.2 fix characterset ([#2](https://github.com/valiton/node-random-string/issues/2))
 
 - 0.1.1 do not contain special cars per default
